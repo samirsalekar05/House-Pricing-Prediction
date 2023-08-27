@@ -1,2 +1,2 @@
 # House-Pricing-Prediction
-Id and Saleprice
+Regression Model of predicting sales price
